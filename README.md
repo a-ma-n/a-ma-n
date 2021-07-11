@@ -1,18 +1,33 @@
-### Hi there 👋
-
-
 
 ### Hi there 👋
+
 I am **Aman** and welcome to my GitHub profile!
 - 🌱 I’m currently learning Machine Learning 
 - ✨ I'm interested in Computer Vision & NLP
 - 😄 Pronouns: He/Him
 - 🧠 I like Brain Machine Interfaces
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-ma-n&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p>
+
 ### Stats 📈
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-ma-n&theme=dark)
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=a-ma-n&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)
+
+### Languages
+
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+### Technologies
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=a-ma-n&show_icons=true&locale=en&theme=blue-green" alt="a-ma-n" width="400" /></p>  </p>
+
 
 ### LinkedIn 
 
