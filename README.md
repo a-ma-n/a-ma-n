@@ -10,6 +10,8 @@ I am **Aman** and welcome to my GitHub profile!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-ma-n&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-ma-n" alt="a-ma-n" /></a> </p>
+
 ### Stats 📈
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-ma-n&theme=dark)
@@ -26,7 +28,7 @@ I am **Aman** and welcome to my GitHub profile!
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=a-ma-n&show_icons=true&locale=en&theme=blue-green" alt="a-ma-n" width="400" /></p>  </p>
+
 
 
 ### LinkedIn 
