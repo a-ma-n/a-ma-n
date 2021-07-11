@@ -17,11 +17,19 @@ I am **Aman** and welcome to my GitHub profile!
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-ma-n&theme=dark)
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=a-ma-n&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)
 
+### _Random joke for you_ 😉
+
+<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
+
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+
+<a href="https://opencv.org" title="OpenCV"><img src="icons/opencv.png" height="32px" /></a>
+<a href="https://tensorflow.org" title="Tensorflow"><img src="icons/tensorflow.png" /></a>
 
 ### Technologies
 
