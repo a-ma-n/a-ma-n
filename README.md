@@ -21,6 +21,9 @@ I am **Aman** and welcome to my GitHub profile!
 
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshBansal&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
+<img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
+
 ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
@@ -39,7 +42,9 @@ I am **Aman** and welcome to my GitHub profile!
 
 
 
-### LinkedIn 
+### Say Hello on 
+
+<a href="https://github.com/a-ma-n" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 <a href="www.linkedin.com/in/-aman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
