@@ -24,6 +24,7 @@ I am **Aman** and welcome to my GitHub profile!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ma-n&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 
+<!--
  ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
@@ -34,7 +35,7 @@ I am **Aman** and welcome to my GitHub profile!
 <a href="https://opencv.org" title="OpenCV"><img src="icons/opencv.png" height="32px" /></a>
 <a href="https://tensorflow.org" title="Tensorflow"><img src="icons/tensorflow.png" /></a>
 
-<!--### Technologies
+### Technologies
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
