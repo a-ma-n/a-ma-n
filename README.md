@@ -24,7 +24,7 @@ I am **Aman** and welcome to my GitHub profile!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ma-n&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
 
-<!-- ### Languages
+ ### Languages
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
@@ -54,7 +54,7 @@ I am **Aman** and welcome to my GitHub profile!
 
 
 
--->
+
 
 
 ### Say Hello on 
