@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I am **Aman** and welcome to my GitHub profile!
-- 🌱 I’m currently learning Kotlin 
+- 🌱 I’m currently learning Android 
 - ✨ I'm interested in Computer Vision & NLP
 - 😄 Pronouns: He/Him
 - 🧠 I like Brain Machine Interfaces
