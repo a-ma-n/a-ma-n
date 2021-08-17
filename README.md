@@ -2,8 +2,8 @@
 ### Hi there 👋
 
 I am **Aman** and welcome to my GitHub profile!
-- 🌱 I’m currently learning Android 
-- ✨ I'm interested in Computer Vision & NLP
+- 🌱 I’m currently learning Android Development
+- ✨ I'm interested in Native App Dev ,Computer Vision & NLP
 - 😄 Pronouns: He/Him
 - 🧠 I like Brain Machine Interfaces
 
