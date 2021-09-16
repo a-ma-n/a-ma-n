@@ -76,13 +76,11 @@ I am **Aman** and welcome to my GitHub profile!
 
 
 
-<p align="left"> 
  ### Say Hello on 
 
 
 <a href="https://www.linkedin.com/in/-aman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-</p>
 
 <!--
 **a-ma-n/a-ma-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
