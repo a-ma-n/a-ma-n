@@ -22,7 +22,7 @@ I am **Aman** and welcome to my GitHub profile!
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ma-n&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
-<img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=50 />&emsp;
+<img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=200 />&emsp;
 
 <!--
  ### Languages
