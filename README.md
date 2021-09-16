@@ -13,10 +13,10 @@ I am **Aman** and welcome to my GitHub profile!
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-ma-n" alt="a-ma-n" /></a> </p>
 
 ### Stats 📈
-
+<p align="center">
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-ma-n&theme=dark)
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=a-ma-n&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)
-
+</p>
 ### _Random joke for you_ 😉
 
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
