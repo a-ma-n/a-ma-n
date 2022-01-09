@@ -3,7 +3,7 @@
 
 I am **Aman** and welcome to my GitHub profile!
 - 🌱 I’m currently learning Android Development
-- ✨ I'm interested in Native App Dev ,Computer Vision & NLP
+- ✨ I'm interested in  App Dev ,Computer Vision , NLP & Cloud 
 - 😄 Pronouns: He/Him
 - 🧠 I like Brain Machine Interfaces
 
