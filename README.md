@@ -2,8 +2,9 @@
 ### Hi there 👋
 
 I am **Aman** and welcome to my GitHub profile!
-- 🌱 I’m currently learning Android Development
-- ✨ I'm interested in  App Dev ,Computer Vision , NLP & Cloud 
+<!-- - 🌱 I’m currently learning Android Development -->
+- ✨ I'm interested in  Android App Development ,Computer Vision , Natural Language Processing & Cloud Technologies
+- 🔥Hit me up for talks and discussion in Data Science,ML & DL
 - 😄 Pronouns: He/Him
 - 🧠 I like Brain Machine Interfaces
 
