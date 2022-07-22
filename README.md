@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 I am **Aman** and welcome to my GitHub profile!
-<!-- - 🌱 I’m currently learning Android Development -->
+- 🌱 I’m currently learning DSA & Devops
 - ✨ I'm interested in App Development ,Computer Vision , Natural Language Processing & Cloud Technologies
 - 🔥Hit me up for talks and discussion in Data Science,ML & DL
 - 😄 Pronouns: He/Him
