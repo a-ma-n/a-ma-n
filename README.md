@@ -6,7 +6,7 @@ I am **Aman** and welcome to my GitHub profile!
 - ✨ I'm interested in App Development ,Computer Vision , Natural Language Processing & Cloud Technologies
 - 🔥Hit me up for talks and discussion in Data Science,ML & DL
 - 😄 Pronouns: He/Him
-- 🧠 I like Brain Machine Interfaces 🤡
+- 🧠 I like Brain Machine Interfaces  🤡
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-ma-n&label=Profile%20views&color=0e75b6&style=flat" alt="a-ma-n" /> </p>
