@@ -15,13 +15,13 @@ I am **Aman** and welcome to my GitHub profile!
 
 ### Stats 📈
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=a-ma-n&theme=dark)
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=a-ma-n&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff)
+<!-- ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=a-ma-n&bg_color=151515&show_icons=true&icon_color=fa8b00&border_color=b9b8b8&title_color=fff&text_color=fff) -->
 
-### _Random joke for you_ 😉
+<!-- ### _Random joke for you_ 😉 -->
 
-<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
+<!-- <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" /> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ma-n&layout=compact&theme=chartreuse-dark&icon_color=00ffff)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ma-n&layout=compact&theme=chartreuse-dark&icon_color=00ffff) -->
 <img src="https://media.giphy.com/media/JRDDRW6ZluTuDhSZZJ/giphy.gif" width=200 />&emsp;
 
 <!--
