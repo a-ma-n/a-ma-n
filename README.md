@@ -6,12 +6,12 @@ I am **Aman** and welcome to my GitHub profile!
 Checkout my work up and running:
 
 Website:
-(https://enfojobs.com/)[https://enfojobs.com/]
+(enfojobs.com)[https://enfojobs.com/]
 - Web3 v2 :
-(https://enfojobs.on-fleek.app/)[https://enfojobs.on-fleek.app/]
+(enfojobs.on-fleek.app)[https://enfojobs.on-fleek.app/]
 
 Play Store:
-(https://play.google.com/store/apps/details?id=com.enfojobs.twa)(https://play.google.com/store/apps/details?id=com.enfojobs.twa)
+(Android App)(https://play.google.com/store/apps/details?id=com.enfojobs.twa)
 
 
 - 🌱 I’m currently learning DSA & Devops
