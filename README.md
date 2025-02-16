@@ -5,10 +5,12 @@ I am **Aman** and welcome to my GitHub profile!
 
 Checkout my work up and running:
 
-Website:
-enfojobs.com https://enfojobs.com/
-- Web3 v2 :
-https://enfojobs.on-fleek.app/
+Websites:
+https://aman-ali-siddiqui.netlify.app/
+https://enfojobs.com/
+https://enfometrics.com/
+
+
 
 Play Store:
 Android App https://play.google.com/store/apps/details?id=com.enfojobs.twa
