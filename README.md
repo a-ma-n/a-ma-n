@@ -20,8 +20,8 @@ Play Store:
 Android App https://play.google.com/store/apps/details?id=com.enfojobs.twa
 
 
-- 🌱 I’m currently learning DSA & Devops
-- ✨ I'm interested in App Development ,Computer Vision , Natural Language Processing & Cloud Technologies
+- 🌱 I’m currently learning AI Agents, LLMS, RL & MLOps
+- ✨ I'm interested in Deep Learning, Agentic AI, Reinforcement Learning, Machien Learning (Computer Vision , Natural Language Processing), Web Development, App Development & Cloud Technologies
 - 🔥Hit me up for talks and discussion in Data Science,ML & DL
 - 😄 Pronouns: He/Him
 - 🧠 I like Brain Machine Interfaces  🤡
