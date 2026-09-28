@@ -9,17 +9,7 @@ Websites:
 
 https://aman-ali.netlify.app/
 
-https://aman-ali-siddiqui.netlify.app/
-
 https://enfojobs.com/
-
-https://enfometrics.com/
-
-
-
-Play Store:
-Android App https://play.google.com/store/apps/details?id=com.enfojobs.twa
-
 
 - 🌱 I’m currently learning AI Agents, LLMS, RL & MLOps
 - ✨ I'm interested in Deep Learning, Agentic AI, Reinforcement Learning, Machien Learning (Computer Vision , Natural Language Processing), Web Development, App Development & Cloud Technologies
